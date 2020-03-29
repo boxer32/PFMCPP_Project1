@@ -105,8 +105,8 @@ bobby.run();
 bobby.eatPotato();
 //  action 3:bobby sleep
 bobby.sleep();
-//  7)turtle
-//  Noun:
+//  7)
+//  Noun:turtle
 //  action 1:the turtle open eye
 turtle.openEye(),
 //  action 2:the turtle swim
