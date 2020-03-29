@@ -58,85 +58,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:frequency
+//  action 1:increase  frequency
+frequency.increase();
+//  action 2:decrease frequency
+frequency.decrease();
+//  action 3:show results
+frequency.results();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:filter
+//  action 1:sweep filter
+filter.sweep();
+//  action 2:stop
+filter.stop();
+//  action 3:start filter
+filter.start();
 //  3)
+//  Noun:camera
+//  action 1:zoom in camera
+camera.zoomIn();
+//  action 2:zoom out camera
+camera.zoomOut();
+//  action 3:restart
+camera.restart();
+//  4)box
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  action 1:flib box 
+box.flip();
+//  action 2:change color
+box.changeColor();
+//  action 3:rotate box
+box.rotate();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:printer
+//  action 1:the printer  scan paper
+printer.scan();
+//  action 2:the printer print paper
+printer.print();
+//  action 3:the printer save photo
+printer.save();
 //  6)
+//  Noun:bobby
+//  action 1 bobby run
+bobby.run();
+//  action 2:bobby eat potato
+bobby.eatPotato();
+//  action 3:bobby sleep
+bobby.sleep();
+//  7)turtle
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  7)
+//  action 1:the turtle open eye
+turtle.openEye(),
+//  action 2:the turtle swim
+turtle.swim();
+//  action 3:the turtle move left
+turtle.moveLeft
+//  8)robot
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  action 1:the robot turnaround
+robot.turnAround();
+//  action 2:the robot jump
+robot.jump();
+//  action 3:the robot speak
+robot.speak();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:walkman
+//  action 1:the walkman play music
+walkman.playMusic();
+//  action 2: the walkman rewind
+walkman.rewind();
+//  action 3:the walkman forward
+walkman.forward();
+//  10) 
+//  Noun:laptop
+//  action 1: the laptop beep
+laptop.beep();
+//  action 2: the laptop refresh screen
+laptop.refreshScreen();
+//  action 3:the laptop download data
+ laptop.downloadData();
 
 
 #endif
